@@ -1,2 +1,3 @@
 Name: Ariana Singh
 Favorite Subject: Computer Science
+Learning Git is fun!
